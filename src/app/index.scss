@@ -40,6 +40,12 @@ section.jumbotron {
   }
 }
 
+.center-80-percent {
+  position: absolute;
+  height: 80%;
+  width: 100%;
+}
+
 .techs {
   display: flex;
   flex-flow: row wrap;
