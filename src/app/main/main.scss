@@ -1,5 +1,10 @@
-
+@import '../../assets/css/variables';
 
 #home {
+  background-color: $blue;
+//  box-shadow: rgba(0, 0, 0, 0.239216) 0px 2px 6px 0px;
+}
 
+#app {
+  background-color: $gray;
 }
